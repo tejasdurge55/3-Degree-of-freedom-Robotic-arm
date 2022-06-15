@@ -1,2 +1,4 @@
 # internship-projects
-projects done during my 6 month internship
+3DOF(Degree of freedom) Robotic arm codes made by me.
+
+
